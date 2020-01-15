@@ -1,9 +1,6 @@
 # MagicWebsite
-收集了一些神奇的网站
-
+收集了一些神奇的网站<br>
 ---
 * 资源网站
   * [UnityList](https://unitylist.com "Welcome to the best Unity3D open source search engine")`收集github上的unity开源项目`<br>
-![](image/赛博希里.jpg "希里太性感了")
-
-[![](image/赛博希里.jpg)](www.baidu.com)
+[![](image/赛博希里.jpg)](http://www.baidu.com)
