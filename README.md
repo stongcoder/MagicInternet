@@ -12,8 +12,8 @@
 * Rss选集
   * [CandyCat的博客](http://candycat1992.github.io/ "DIY")
   ```
-  Feed URL:  https://feed43.com/5373443441701370.xml ?
-  Edit URL: https://feed43.com/feed.html?name=5373443441701370 ?
+  Feed URL:  https://feed43.com/5373443441701370.xml
+  Edit URL: https://feed43.com/feed.html?name=5373443441701370
   ```
 
 
